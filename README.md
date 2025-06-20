@@ -51,7 +51,7 @@ src/
 ## Requisitos previos
 Asegúrate de tener instalados los siguientes programas:
 
-- [Java 17 o superior]([https://adoptopenjdk.net/](https://www.oracle.com/co/java/technologies/downloads/))
+- [Java 17 o superior](https://www.oracle.com/co/java/technologies/downloads/)
 - [Maven](https://maven.apache.org/)
 ## Pasos para clonar el repositorio y ejecutar el proyecto
 
