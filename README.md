@@ -10,7 +10,7 @@
 >>https://github.com/user-attachments/assets/c706a0a6-d5f2-4159-a401-7ed121c38c63
 >>
 
-Como segundo punto tenemos un  proyecto  que consiste en una API REST desarrollada con Spring Boot que permite gestionar **Clientes** y sus respectivas **Entregas** mediante integración directa con Salesforce.  
+Como segundo punto tenemos un  proyecto  que consiste en una API REST desarrollada con Spring Boot que permite gestionar **Clientes** y sus respectivas **Entregas** mediante integración directa con Salesforce (con una relación de 1 a muchos).  
 A través de esta API se pueden:
 - Crear nuevos clientes.
 - Crear entregas asociadas a un cliente.
