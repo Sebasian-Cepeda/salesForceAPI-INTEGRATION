@@ -53,6 +53,22 @@ Asegúrate de tener instalados los siguientes programas:
 
 - [Java 17 o superior](https://www.oracle.com/co/java/technologies/downloads/)
 - [Maven](https://maven.apache.org/)
+## Recordar tambien que se debe editar el application.propierties con los datos corrector para poder conectarnos a salesforce
+```bash
+  salesforce.clientId=${SALESFORCE_CLIENT_ID}
+  salesforce.clientSecret=${SALESFORCE_CLIENT_SECRET}
+  salesforce.username=${SALESFORCE_USERNAME}
+  salesforce.password=${SALESFORCE_PASSWORD}
+  salesforce.tokenUrl=${SALESFORCE_TOKEN_URL}
+  salesforce.instanceUrl=${SALESFORCE_INSTANCE_URL}
+```
+
+## Recordar tambien que en las clases de la carpteta Services se tienen 3 variables que tambien deben ser modificadas con la ruta correcta para la conexión
+```bash
+    private static final String INSTANCE_URL = "INSTANCE_URL";
+    private static final String CLIENTE_ENDPOINT = "CLIENTE_ENDPOINT";
+    private static final String QUERY_ENDPOINT = "QUERY_ENDPOINT";
+```
 ## Pasos para clonar el repositorio y ejecutar el proyecto
 
 ### 1. Clonar el repositorio
