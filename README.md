@@ -51,7 +51,7 @@ src/
 ## Requisitos previos
 Asegúrate de tener instalados los siguientes programas:
 
-- [Java 17 o superior](https://adoptopenjdk.net/)
+- [Java 17 o superior]([https://adoptopenjdk.net/](https://www.oracle.com/co/java/technologies/downloads/))
 - [Maven](https://maven.apache.org/)
 ## Pasos para clonar el repositorio y ejecutar el proyecto
 
@@ -62,7 +62,7 @@ Clonar el repositorio en la máquina local utilizando el siguiente comando:
 ```bash
 git clone https://github.com/tu_usuario/SebastianCepedaAPIPrueba.git
 ```
-###2. abrir el repositorio en su editor de preferencia
+### 2. abrir el repositorio en su editor de preferencia
 
 ### 3. entrar a la siguiente ruta 
 ```bash
